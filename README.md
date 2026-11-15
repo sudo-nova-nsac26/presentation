@@ -1,5 +1,6 @@
-<div align="center"><a href="https://surfacesignal.earth/pt/">
-  <img src="surfacesignal-logo.png" alt="SurfaceSignal — project logo" width="340" />
+<div align="center">SurfaceSignal
+<a href="https://surfacesignal.earth/pt/">
+  <img src="surfacesignal-logo.png" alt="SurfaceSignal Logo" width="300" />
 </a>Exploring Earth's surface through satellite radar observations
 NASA Space Apps Challenge 2026 | Sudo Nova Team
 
