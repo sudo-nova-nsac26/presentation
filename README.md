@@ -3,9 +3,10 @@
 # SurfaceSignal
 
 <h1>
-  <img src="surfacesignal-logo.png" alt="SurfaceSignal" width="45" align="center" />
-  SurfaceSignal
+  <img src="https://surfacesignal.earth/pt" alt="SurfaceSignal" width="45" align="center" />
 </h1>
+
+
 
   <h3>Exploring Earth's surface through satellite radar observations</h3>
 
