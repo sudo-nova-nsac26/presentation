@@ -2,9 +2,11 @@
 
 # SurfaceSignal
 
-<h1>
-  <img src="https://surfacesignal.earth/pt" alt="SurfaceSignal" width="45" align="center" />
-</h1>
+
+<a href="https://surfacesignal.earth/pt/">
+  <img src="assets/surfacesignal-logo.png" alt="SurfaceSignal" width="300" />
+</a>
+
 
 
 
