@@ -1,9 +1,9 @@
 <div align="center">
 
 <p>
-  <a href="https://sudonova.surfacesignal.earth/"><img src="assets/sudo-nova-logo.png" alt="Logotipo da equipe Sudo Nova" height="155" /></a>
+  <a href="https://sudonova.surfacesignal.earth/"><img src="assets/sudo-nova-logo.png" alt="Logotipo da equipe Sudo Nova" width="200" /></a>
   &nbsp;&nbsp;
-  <a href="https://surfacesignal.earth/"><img src="assets/surface-signal-logo.png" alt="Logotipo do projeto SurfaceSignal" height="155" /></a>
+  <a href="https://surfacesignal.earth/"><img src="assets/surface-signal-logo.png" alt="Logotipo do projeto SurfaceSignal" width="200" /></a>
 </p>
 
 <h1>SurfaceSignal</h1>
