@@ -2,6 +2,22 @@
 
 # SurfaceSignal
 
+<div align="center">
+
+  <a href="https://surfacesignal.earth/pt/">
+    <img src="surfacesignal-logo.png" alt="SurfaceSignal Logo" width="300" />
+  </a>
+
+  <br />
+
+  <h1>SurfaceSignal</h1>
+  <h3>Exploring Earth's surface through satellite radar observations</h3>
+
+  <p><strong>NASA Space Apps Challenge 2026 | Sudo Nova Team</strong></p>
+
+</div>
+
+
 ### Exploring Earth's surface through satellite radar observations
 
 **NASA Space Apps Challenge 2026 | Sudo Nova Team**
