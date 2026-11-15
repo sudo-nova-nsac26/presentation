@@ -2,13 +2,10 @@
 
 # SurfaceSignal
 
-<div align="center">
-
-  <a href="https://surfacesignal.earth/pt/">
-    <img src="surfacesignal-logo.png" alt="SurfaceSignal Logo" width="300" />
-  </a>
-
-  <br />
+<h1>
+  <img src="surfacesignal-logo.png" alt="SurfaceSignal" width="45" align="center" />
+  SurfaceSignal
+</h1>
 
   <h3>Exploring Earth's surface through satellite radar observations</h3>
 
