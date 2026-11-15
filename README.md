@@ -10,7 +10,6 @@
 
   <br />
 
-  <h1>SurfaceSignal</h1>
   <h3>Exploring Earth's surface through satellite radar observations</h3>
 
   <p><strong>NASA Space Apps Challenge 2026 | Sudo Nova Team</strong></p>
