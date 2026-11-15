@@ -4,11 +4,8 @@
 
 
 <a href="https://surfacesignal.earth/pt/">
-  <img src="assets/surfacesignal-logo.png" alt="SurfaceSignal" width="300" />
+  <img src="https://raw.githubusercontent.com/sudo-nova-nsac26/sudo-nova-portfolio/main/public/images/logo-surface-signal.png" alt="SurfaceSignal" width="300" />
 </a>
-
-
-
 
   <h3>Exploring Earth's surface through satellite radar observations</h3>
 
