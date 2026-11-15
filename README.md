@@ -1,78 +1,64 @@
 <div align="center">
 
-<a href="https://surfacesignal.earth/pt/">
-  <img src="https://raw.githubusercontent.com/sudo-nova-nsac26/sudo-nova-portfolio/main/public/images/logo-surface-signal.png" alt="SurfaceSignal" width="300" />
-</a>
-
-<h3>Exploring Earth's surface through satellite radar observations</h3>
-
-<p><strong>NASA Space Apps Challenge 2026 | Sudo Nova Team</strong></p>
-
 <p>
-  <a href="https://github.com/sudo-nova-nsac26/presentation/blob/main/Surface%20Signal%20-%20Presentation.pdf">
-    <img src="https://img.shields.io/badge/VIEW_PRESENTATION-00DBE7?style=for-the-badge&labelColor=071824&logo=adobeacrobatreader&logoColor=white" alt="View Presentation" />
-  </a>
-  <a href="https://sudonova.surfacesignal.earth/">
-    <img src="https://img.shields.io/badge/TEAM_PORTFOLIO-172A38?style=for-the-badge&logo=github&logoColor=white" alt="Team Portfolio" />
-  </a>
+  <a href="https://sudonova.surfacesignal.earth/"><img src="assets/sudo-nova-logo.png" alt="Sudo Nova team logo" width="165" /></a>
+  &nbsp;&nbsp;
+  <a href="https://surfacesignal.earth/"><img src="assets/surface-signal-logo.png" alt="SurfaceSignal project logo" width="220" /></a>
 </p>
 
-<p><strong>Satellite Data · Earth Observation · Climate Resilience · Data Visualization</strong></p>
+<h1>SurfaceSignal</h1>
 
-</div>
+<p><strong>Making Earth's Changes Understandable</strong></p>
+<p>Exploring environmental change through satellite radar and scientific context.</p>
+<p><strong>NASA Space Apps Challenge 2026 · Dancing with the SARs · Sudo Nova</strong></p>
 
+<p><strong>English</strong> · <a href="./README.pt-BR.md">Português</a></p>
+
+<p>
+  <a href="https://surfacesignal.earth/"><img src="https://img.shields.io/badge/EXPLORE_APPLICATION-00DBE7?style=for-the-badge&labelColor=071824&logo=cloudflare&logoColor=white" alt="EXPLORE APPLICATION" /></a>
+  <a href="https://github.com/sudo-nova-nsac26/presentation/blob/main/Surface%20Signal%20-%20Presentation.pdf"><img src="https://img.shields.io/badge/VIEW_PRESENTATION-172A38?style=for-the-badge&labelColor=071824&logo=adobeacrobatreader&logoColor=white" alt="VIEW PRESENTATION" /></a>
+</p>
+
+<p><a href="https://surfacesignal.earth/">Live Application</a> · <a href="https://github.com/sudo-nova-nsac26/presentation/blob/main/Surface%20Signal%20-%20Presentation.pdf">Presentation (PDF)</a> · <a href="https://sudonova.surfacesignal.earth/">Team Portfolio</a> · <a href="https://www.spaceappschallenge.org/2026/find-a-team/sudo-nova/?tab=project">Space Apps Entry</a></p>
 
 </div>
 
 ---
 
-## ◇ About SurfaceSignal
+## About SurfaceSignal
 
-**SurfaceSignal** is an early-stage project concept developed by the **Sudo Nova** team for the **NASA Space Apps Challenge 2026**.
+**SurfaceSignal** is an interactive Earth observation project developed by **Sudo Nova** for the **NASA Space Apps Challenge 2026**, addressing the **Dancing with the SARs** challenge.
 
-The project explores how satellite radar observations from the **NASA-ISRO Synthetic Aperture Radar (NISAR)** mission can support the investigation of changes on Earth's surface.
+Built around observations from the **NASA–ISRO Synthetic Aperture Radar (NISAR)** mission, the platform makes it easier to explore and understand changes on Earth's surface without specialized remote-sensing expertise.
 
-Our goal is to make complex Earth observation data more accessible, understandable, and meaningful to a broader audience.
+Our pilot covers **Lajeado, Estrela, and the Taquari Valley in Rio Grande do Sul, Brazil**, a region with a history of serious flooding.
 
-## ✦ Why Lajeado?
+## What We Built
 
-Our initial study focuses on **Lajeado and Estrela**, located in the Taquari Valley, Rio Grande do Sul, Brazil.
+- **Real satellite observations:** 19 NISAR L2 GCOV acquisitions, representing approximately **131 GB of original HDF5 data**.
+- **Historical comparisons:** 17 compatible temporal comparisons to investigate changes in radar backscatter.
+- **Environmental context:** CHIRPS v3 rainfall estimates, JRC Global Surface Water, ESA WorldCover land cover, Copernicus DEM terrain data, IBGE administrative boundaries, and SGB hydrological context.
+- **Accessible exploration:** interactive 2D/3D maps, a timeline, contextual explanations, and Portuguese/English interfaces.
+- **Scientific transparency:** source references, documented assumptions, and limitations separated from interpretation.
 
-The region has experienced severe flooding and significant climate-related impacts, affecting communities, infrastructure, and everyday life.
+### Scientific Limitations
 
-We selected this region to explore how satellite observations, supported by contextual information and public data, can help communicate the scale and consequences of extreme environmental events.
+Differences in radar backscatter can have multiple causes, including vegetation, surface moisture, and acquisition characteristics. **Detected changes are exploratory observations—not independently confirmed floods or damage assessments.** SurfaceSignal is **not** a real-time emergency-warning or flood-forecasting service.
 
-Historical and socioeconomic information, including data from the **Brazilian Institute of Geography and Statistics (IBGE)**, provides additional context for understanding the affected region.
+## Project Presentation
 
-## ◇ Project Objectives
+The presentation PDF is stored in this repository as **[`Surface Signal - Presentation.pdf`](https://github.com/sudo-nova-nsac26/presentation/blob/main/Surface%20Signal%20-%20Presentation.pdf)**.
 
-- **Explore satellite observations:** Investigate surface changes using radar data from the NISAR mission.
-- **Compare observations over time:** Examine differences between satellite acquisitions of the same geographic area.
-- **Improve accessibility:** Present complex geospatial information through understandable visualizations.
-- **Provide context:** Connect Earth observation data with geographic and socioeconomic information.
-- **Communicate uncertainty:** Explain the limitations of satellite measurements and the importance of scientific interpretation.
+The presentation introduces the problem, NISAR observations, contextual data, proposed interpretation, and the interactive solution.
 
-## ◇ Project Presentation
+## Project Resources
 
-Our presentation introduces the project concept, selected study area, supporting evidence, design decisions, and intended impact.
+- **[Explore SurfaceSignal](https://surfacesignal.earth/)** — publicly accessible application.
+- **[NASA Space Apps entry](https://www.spaceappschallenge.org/2026/find-a-team/sudo-nova/?tab=project)** — official team project page.
+- **[Sudo Nova portfolio](https://sudonova.surfacesignal.earth/)** — meet the team.
+- **[Sudo Nova GitHub organization](https://github.com/sudo-nova-nsac26)** — other team projects.
 
-**[View the SurfaceSignal Presentation (PDF)](https://github.com/sudo-nova-nsac26/presentation/blob/main/Surface%20Signal%20-%20Presentation.pdf)**
-
-The PDF is also available directly in this repository:
-
-`Surface Signal - Presentation.pdf`
-
-## ◇ Scientific and Technical Considerations
-
-SurfaceSignal investigates the potential of radar-based Earth observation for understanding environmental changes.
-
-Differences between satellite radar observations may result from multiple factors, including surface conditions, vegetation, acquisition geometry, and measurement characteristics.
-
-**Radar signal differences alone do not confirm flooding or quantify its consequences.** Additional interpretation, contextual information, and validation are necessary.
-
-SurfaceSignal is an exploratory project and is not an operational flood forecasting or emergency warning system.
-
-## ◇ Meet the Team
+## Team
 
 | Member | GitHub |
 | :--- | :--- |
@@ -80,25 +66,13 @@ SurfaceSignal is an exploratory project and is not an operational flood forecast
 | **Mateus Carniel Brambilla** | [@matbdev](https://github.com/matbdev) |
 | **Yuri Korolko** | [@korolkoo](https://github.com/korolkoo) |
 
-## ◇ Related Links
-
-- **[Sudo Nova Portfolio](https://sudonova.surfacesignal.earth/)**
-- **[Sudo Nova GitHub](https://github.com/sudo-nova-nsac26)**
-- **[Portfolio Source Code](https://github.com/sudo-nova-nsac26/sudo-nova-portfolio)**
-- **[NASA Space Apps Challenge](https://www.spaceappschallenge.org/)**
-
-## ◇ Contact
-
-Interested in our project, research, or potential collaborations?
+## Contact
 
 **[sudonova@matbdev.com](mailto:sudonova@matbdev.com)**
 
 ---
 
 <div align="center">
-
-Made by the **[Sudo Nova](https://github.com/sudo-nova-nsac26)** team · Brazil · 2026
-
-**Explore. Build. Innovate.**
-
+  <sub>Made by <a href="https://sudonova.surfacesignal.earth/"><strong>Sudo Nova</strong></a> · Brazil · 2026</sub>
+  <p><em>Independent NASA Space Apps participants; not an official NASA or ISRO organization.</em></p>
 </div>

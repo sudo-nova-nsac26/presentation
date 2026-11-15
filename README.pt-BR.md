@@ -1,75 +1,64 @@
 <div align="center">
 
-<a href="https://surfacesignal.earth/pt/">
-  <img src="https://raw.githubusercontent.com/sudo-nova-nsac26/sudo-nova-portfolio/main/public/images/logo-surface-signal.png" alt="SurfaceSignal" width="300" />
-</a>
-
-<h3>Explorando a superfície da Terra por meio de observações de radar por satélite</h3>
-
-<p><strong>NASA Space Apps Challenge 2026 | Equipe Sudo Nova</strong></p>
-
 <p>
-  <a href="https://github.com/sudo-nova-nsac26/presentation/blob/main/Surface%20Signal%20-%20Presentation.pdf">
-    <img src="https://img.shields.io/badge/VER_APRESENTA%C3%87%C3%83O-00DBE7?style=for-the-badge&labelColor=071824&logo=adobeacrobatreader&logoColor=white" alt="Ver apresentação" />
-  </a>
-  <a href="https://sudonova.surfacesignal.earth/">
-    <img src="https://img.shields.io/badge/PORTF%C3%93LIO_DA_EQUIPE-172A38?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio da equipe" />
-  </a>
+  <a href="https://sudonova.surfacesignal.earth/"><img src="assets/sudo-nova-logo.png" alt="Logotipo da equipe Sudo Nova" width="165" /></a>
+  &nbsp;&nbsp;
+  <a href="https://surfacesignal.earth/"><img src="assets/surface-signal-logo.png" alt="Logotipo do projeto SurfaceSignal" width="220" /></a>
 </p>
 
-<p><strong>Dados de Satélite · Observação da Terra · Resiliência Climática · Visualização de Dados</strong></p>
+<h1>SurfaceSignal</h1>
+
+<p><strong>Tornando as mudanças da Terra compreensíveis</strong></p>
+<p>Explorando mudanças ambientais com radar de satélite e contexto científico.</p>
+<p><strong>NASA Space Apps Challenge 2026 · Dancing with the SARs · Sudo Nova</strong></p>
+
+<p><a href="./README.md">English</a> · <strong>Português</strong></p>
+
+<p>
+  <a href="https://surfacesignal.earth/"><img src="https://img.shields.io/badge/EXPLORAR_APLICA%C3%87%C3%83O-00DBE7?style=for-the-badge&labelColor=071824&logo=cloudflare&logoColor=white" alt="EXPLORAR APLICAÇÃO" /></a>
+  <a href="https://github.com/sudo-nova-nsac26/presentation/blob/main/Surface%20Signal%20-%20Presentation.pdf"><img src="https://img.shields.io/badge/VER_APRESENTA%C3%87%C3%83O-172A38?style=for-the-badge&labelColor=071824&logo=adobeacrobatreader&logoColor=white" alt="VER APRESENTAÇÃO" /></a>
+</p>
+
+<p><a href="https://surfacesignal.earth/">Aplicação publicada</a> · <a href="https://github.com/sudo-nova-nsac26/presentation/blob/main/Surface%20Signal%20-%20Presentation.pdf">Apresentação (PDF)</a> · <a href="https://sudonova.surfacesignal.earth/">Portfólio da equipe</a> · <a href="https://www.spaceappschallenge.org/2026/find-a-team/sudo-nova/?tab=project">Inscrição Space Apps</a></p>
 
 </div>
 
 ---
 
-## ◇ Sobre o SurfaceSignal
+## Sobre o SurfaceSignal
 
-O **SurfaceSignal** é um conceito de projeto em estágio inicial, desenvolvido pela equipe **Sudo Nova** para o **NASA Space Apps Challenge 2026**.
+O **SurfaceSignal** é um projeto interativo de observação da Terra desenvolvido pela equipe **Sudo Nova** para o **NASA Space Apps Challenge 2026**, no desafio **Dancing with the SARs**.
 
-O projeto explora como as observações de radar por satélite da missão **NASA-ISRO Synthetic Aperture Radar (NISAR)** podem contribuir para a investigação de mudanças na superfície da Terra.
+A plataforma utiliza observações da missão **NASA–ISRO Synthetic Aperture Radar (NISAR)** para facilitar a exploração e a compreensão de mudanças na superfície terrestre, sem exigir conhecimentos especializados em sensoriamento remoto.
 
-Nosso objetivo é tornar dados complexos de observação da Terra mais acessíveis, compreensíveis e relevantes para um público mais amplo.
+O projeto piloto abrange **Lajeado, Estrela e o Vale do Taquari, no Rio Grande do Sul**, região com histórico de enchentes graves.
 
-## ✦ Por que Lajeado?
+## O que desenvolvemos
 
-Nosso estudo inicial concentra-se em **Lajeado e Estrela**, municípios localizados no Vale do Taquari, no Rio Grande do Sul, Brasil.
+- **Observações reais:** 19 aquisições NISAR L2 GCOV, correspondentes a aproximadamente **131 GB de dados HDF5 originais**.
+- **Comparações históricas:** 17 comparações temporais compatíveis para investigar mudanças no retroespalhamento do radar.
+- **Contexto ambiental:** estimativas de precipitação CHIRPS v3, ocorrência histórica de água do JRC, cobertura da terra ESA WorldCover, relevo Copernicus DEM, limites administrativos IBGE e informações hidrológicas do SGB.
+- **Exploração acessível:** mapas interativos 2D/3D, linha do tempo, explicações contextualizadas e interfaces em português e inglês.
+- **Transparência científica:** identificação de fontes, premissas documentadas e limitações diferenciadas das interpretações.
 
-A região enfrentou enchentes severas e impactos climáticos significativos, que afetaram comunidades, infraestrutura e a vida cotidiana da população.
+### Limitações científicas
 
-Escolhemos essa região para explorar como observações por satélite, apoiadas por informações contextuais e dados públicos, podem ajudar a comunicar a dimensão e as consequências de eventos ambientais extremos.
+Diferenças no retroespalhamento do radar podem ter diversas causas, incluindo vegetação, umidade superficial e características das aquisições. **As mudanças detectadas são observações exploratórias, não inundações ou danos confirmados de forma independente.** O SurfaceSignal **não** é um serviço de alerta de emergência ou previsão de enchentes em tempo real.
 
-Informações históricas e socioeconômicas, incluindo dados do **Instituto Brasileiro de Geografia e Estatística (IBGE)**, fornecem contexto adicional para compreender a região afetada.
+## Apresentação do projeto
 
-## ◇ Objetivos do Projeto
+A apresentação em PDF está disponível neste repositório como **[`Surface Signal - Presentation.pdf`](https://github.com/sudo-nova-nsac26/presentation/blob/main/Surface%20Signal%20-%20Presentation.pdf)**.
 
-- **Explorar observações por satélite:** Investigar mudanças na superfície terrestre utilizando dados de radar da missão NISAR.
-- **Comparar observações ao longo do tempo:** Examinar diferenças entre aquisições de imagens por satélite de uma mesma área geográfica.
-- **Ampliar a acessibilidade:** Apresentar informações geoespaciais complexas por meio de visualizações compreensíveis.
-- **Fornecer contexto:** Relacionar dados de observação da Terra com informações geográficas e socioeconômicas.
-- **Comunicar incertezas:** Explicar as limitações das medições por satélite e a importância da interpretação científica.
+Ela apresenta o problema, as observações NISAR, os dados de contexto, a proposta de interpretação e a solução interativa.
 
-## ◇ Apresentação do Projeto
+## Recursos do projeto
 
-Nossa apresentação introduz o conceito do projeto, a área de estudo selecionada, as evidências de apoio, as decisões de desenvolvimento e o impacto pretendido.
+- **[Explorar o SurfaceSignal](https://surfacesignal.earth/)** — aplicação pública.
+- **[Inscrição no NASA Space Apps](https://www.spaceappschallenge.org/2026/find-a-team/sudo-nova/?tab=project)** — página oficial da equipe e do projeto.
+- **[Portfólio da Sudo Nova](https://sudonova.surfacesignal.earth/)** — conheça a equipe.
+- **[Organização Sudo Nova no GitHub](https://github.com/sudo-nova-nsac26)** — outros projetos da equipe.
 
-**[Ver a apresentação do SurfaceSignal (PDF)](https://github.com/sudo-nova-nsac26/presentation/blob/main/Surface%20Signal%20-%20Presentation.pdf)**
-
-O PDF também está disponível diretamente neste repositório:
-
-`Surface Signal - Presentation.pdf`
-
-## ◇ Considerações Científicas e Técnicas
-
-O SurfaceSignal investiga o potencial da observação da Terra baseada em radar para compreender mudanças ambientais.
-
-As diferenças entre observações de radar por satélite podem resultar de diversos fatores, incluindo condições da superfície, vegetação, geometria de aquisição e características das medições.
-
-**Diferenças nos sinais de radar, por si só, não confirmam a ocorrência de enchentes nem quantificam suas consequências.** São necessárias interpretação adicional, informações contextuais e validação.
-
-O SurfaceSignal é um projeto exploratório e não constitui um sistema operacional de previsão de enchentes ou de alerta de emergência.
-
-## ◇ Conheça a Equipe
+## Equipe
 
 | Integrante | GitHub |
 | :--- | :--- |
@@ -77,25 +66,13 @@ O SurfaceSignal é um projeto exploratório e não constitui um sistema operacio
 | **Mateus Carniel Brambilla** | [@matbdev](https://github.com/matbdev) |
 | **Yuri Korolko** | [@korolkoo](https://github.com/korolkoo) |
 
-## ◇ Links Relacionados
-
-- **[Portfólio da Sudo Nova](https://sudonova.surfacesignal.earth/)**
-- **[GitHub da Sudo Nova](https://github.com/sudo-nova-nsac26)**
-- **[Código-fonte do Portfólio](https://github.com/sudo-nova-nsac26/sudo-nova-portfolio)**
-- **[NASA Space Apps Challenge](https://www.spaceappschallenge.org/)**
-
-## ◇ Contato
-
-Tem interesse em nosso projeto, pesquisa ou possíveis colaborações?
+## Contato
 
 **[sudonova@matbdev.com](mailto:sudonova@matbdev.com)**
 
 ---
 
 <div align="center">
-
-Desenvolvido pela equipe **[Sudo Nova](https://github.com/sudo-nova-nsac26)** · Brasil · 2026
-
-**Explorar. Construir. Inovar.**
-
+  <sub>Desenvolvido pela <a href="https://sudonova.surfacesignal.earth/"><strong>Sudo Nova</strong></a> · Brasil · 2026</sub>
+  <p><em>Participantes independentes do NASA Space Apps; não representam oficialmente a NASA ou a ISRO.</em></p>
 </div>
