@@ -101,4 +101,4 @@ Made by the **[Sudo Nova](https://github.com/sudo-nova-nsac26)** team · Brazil 
 
 **Explore. Build. Innovate.**
 
-</div>\
+</div>
