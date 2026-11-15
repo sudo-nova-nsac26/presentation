@@ -1,23 +1,26 @@
 <div align="center">
+
 <a href="https://surfacesignal.earth/pt/">
   <img src="https://raw.githubusercontent.com/sudo-nova-nsac26/sudo-nova-portfolio/main/public/images/logo-surface-signal.png" alt="SurfaceSignal" width="300" />
 </a>
 
-  <h3>Exploring Earth's surface through satellite radar observations</h3>
+<h3>Exploring Earth's surface through satellite radar observations</h3>
 
-  <p><strong>NASA Space Apps Challenge 2026 | Sudo Nova Team</strong></p>
+<p><strong>NASA Space Apps Challenge 2026 | Sudo Nova Team</strong></p>
+
+<p>
+  <a href="https://github.com/sudo-nova-nsac26/presentation/blob/main/Surface%20Signal%20-%20Presentation.pdf">
+    <img src="https://img.shields.io/badge/VIEW_PRESENTATION-00DBE7?style=for-the-badge&labelColor=071824&logo=adobeacrobatreader&logoColor=white" alt="View Presentation" />
+  </a>
+  <a href="https://sudonova.surfacesignal.earth/">
+    <img src="https://img.shields.io/badge/TEAM_PORTFOLIO-172A38?style=for-the-badge&logo=github&logoColor=white" alt="Team Portfolio" />
+  </a>
+</p>
+
+<p><strong>Satellite Data · Earth Observation · Climate Resilience · Data Visualization</strong></p>
 
 </div>
 
-
-### Exploring Earth's surface through satellite radar observations
-
-**NASA Space Apps Challenge 2026 | Sudo Nova Team**
-
-[![View Presentation](https://img.shields.io/badge/VIEW_PRESENTATION-00DBE7?style=for-the-badge&labelColor=071824&logo=adobeacrobatreader&logoColor=white)](https://github.com/sudo-nova-nsac26/presentation/blob/main/Surface%20Signal%20-%20Presentation.pdf)
-[![Team Portfolio](https://img.shields.io/badge/TEAM_PORTFOLIO-172A38?style=for-the-badge&logo=github&logoColor=white)](https://sudonova.surfacesignal.earth/)
-
-**Satellite Data · Earth Observation · Climate Resilience · Data Visualization**
 
 </div>
 
