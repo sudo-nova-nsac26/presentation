@@ -1,8 +1,4 @@
 <div align="center">
-
-# SurfaceSignal
-
-
 <a href="https://surfacesignal.earth/pt/">
   <img src="https://raw.githubusercontent.com/sudo-nova-nsac26/sudo-nova-portfolio/main/public/images/logo-surface-signal.png" alt="SurfaceSignal" width="300" />
 </a>
