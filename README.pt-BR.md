@@ -17,9 +17,10 @@
 <p>
   <a href="https://surfacesignal.earth/"><img src="https://img.shields.io/badge/EXPLORAR_APLICA%C3%87%C3%83O-00DBE7?style=for-the-badge&labelColor=071824&logo=cloudflare&logoColor=white" alt="EXPLORAR APLICAÇÃO" /></a>
   <a href="https://github.com/sudo-nova-nsac26/presentation/blob/main/Surface%20Signal%20-%20Presentation.pdf"><img src="https://img.shields.io/badge/VER_APRESENTA%C3%87%C3%83O-172A38?style=for-the-badge&labelColor=071824&logo=adobeacrobatreader&logoColor=white" alt="VER APRESENTAÇÃO" /></a>
+  <a href="https://github.com/sudo-nova-nsac26/presentation/blob/main/Surface%20Signal%20-%20Demo%20Video.mp4"><img src="https://img.shields.io/badge/ASSISTIR_V%C3%8DDEO-172A38?style=for-the-badge&labelColor=071824" alt="ASSISTIR VÍDEO" /></a>
 </p>
 
-<p><a href="https://surfacesignal.earth/">Aplicação publicada</a> · <a href="https://github.com/sudo-nova-nsac26/presentation/blob/main/Surface%20Signal%20-%20Presentation.pdf">Apresentação (PDF)</a> · <a href="https://sudonova.surfacesignal.earth/">Portfólio da equipe</a> · <a href="https://www.spaceappschallenge.org/2026/find-a-team/sudo-nova/?tab=project">Inscrição Space Apps</a></p>
+<p><a href="https://surfacesignal.earth/">Aplicação publicada</a> · <a href="https://github.com/sudo-nova-nsac26/presentation/blob/main/Surface%20Signal%20-%20Presentation.pdf">Apresentação (PDF)</a> · <a href="https://github.com/sudo-nova-nsac26/presentation/blob/main/Surface%20Signal%20-%20Demo%20Video.mp4">Vídeo demonstrativo</a> · <a href="https://sudonova.surfacesignal.earth/">Portfólio da equipe</a> · <a href="https://www.spaceappschallenge.org/2026/find-a-team/sudo-nova/?tab=project">Inscrição Space Apps</a></p>
 
 </div>
 
@@ -50,6 +51,8 @@ Diferenças no retroespalhamento do radar podem ter diversas causas, incluindo v
 A apresentação em PDF está disponível neste repositório como **[`Surface Signal - Presentation.pdf`](https://github.com/sudo-nova-nsac26/presentation/blob/main/Surface%20Signal%20-%20Presentation.pdf)**.
 
 Ela apresenta o problema, as observações NISAR, os dados de contexto, a proposta de interpretação e a solução interativa.
+
+Também há um **vídeo de demonstração** da aplicação em **[`Surface Signal - Demo Video.mp4`](https://github.com/sudo-nova-nsac26/presentation/blob/main/Surface%20Signal%20-%20Demo%20Video.mp4)** (cerca de 6 minutos, legendas em inglês, sem áudio). Ele é apenas material complementar: tem mais de 30 segundos e **não** faz parte da entrega oficial, que é a apresentação acima.
 
 ## Recursos do projeto
 

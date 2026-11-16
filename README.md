@@ -17,9 +17,10 @@
 <p>
   <a href="https://surfacesignal.earth/"><img src="https://img.shields.io/badge/EXPLORE_APPLICATION-00DBE7?style=for-the-badge&labelColor=071824&logo=cloudflare&logoColor=white" alt="EXPLORE APPLICATION" /></a>
   <a href="https://github.com/sudo-nova-nsac26/presentation/blob/main/Surface%20Signal%20-%20Presentation.pdf"><img src="https://img.shields.io/badge/VIEW_PRESENTATION-172A38?style=for-the-badge&labelColor=071824&logo=adobeacrobatreader&logoColor=white" alt="VIEW PRESENTATION" /></a>
+  <a href="https://github.com/sudo-nova-nsac26/presentation/blob/main/Surface%20Signal%20-%20Demo%20Video.mp4"><img src="https://img.shields.io/badge/WATCH_DEMO_VIDEO-172A38?style=for-the-badge&labelColor=071824" alt="WATCH DEMO VIDEO" /></a>
 </p>
 
-<p><a href="https://surfacesignal.earth/">Live Application</a> · <a href="https://github.com/sudo-nova-nsac26/presentation/blob/main/Surface%20Signal%20-%20Presentation.pdf">Presentation (PDF)</a> · <a href="https://sudonova.surfacesignal.earth/">Team Portfolio</a> · <a href="https://www.spaceappschallenge.org/2026/find-a-team/sudo-nova/?tab=project">Space Apps Entry</a></p>
+<p><a href="https://surfacesignal.earth/">Live Application</a> · <a href="https://github.com/sudo-nova-nsac26/presentation/blob/main/Surface%20Signal%20-%20Presentation.pdf">Presentation (PDF)</a> · <a href="https://github.com/sudo-nova-nsac26/presentation/blob/main/Surface%20Signal%20-%20Demo%20Video.mp4">Demo Video</a> · <a href="https://sudonova.surfacesignal.earth/">Team Portfolio</a> · <a href="https://www.spaceappschallenge.org/2026/find-a-team/sudo-nova/?tab=project">Space Apps Entry</a></p>
 
 </div>
 
@@ -50,6 +51,8 @@ Differences in radar backscatter can have multiple causes, including vegetation,
 The presentation PDF is stored in this repository as **[`Surface Signal - Presentation.pdf`](https://github.com/sudo-nova-nsac26/presentation/blob/main/Surface%20Signal%20-%20Presentation.pdf)**.
 
 The presentation introduces the problem, NISAR observations, contextual data, proposed interpretation, and the interactive solution.
+
+A **demo video** of the application is also available as **[`Surface Signal - Demo Video.mp4`](https://github.com/sudo-nova-nsac26/presentation/blob/main/Surface%20Signal%20-%20Demo%20Video.mp4)** (about 6 minutes, English captions, no audio). It is supplementary material only: it is longer than 30 seconds and is **not** part of the official submission, which is the presentation above.
 
 ## Project Resources
 
